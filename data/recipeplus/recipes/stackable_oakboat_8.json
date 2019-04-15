@@ -1,0 +1,34 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_boat",
+	"ingredients": [
+		{
+			"item": "minecraft:oak_boat"
+		},
+		{
+			"item": "minecraft:oak_boat"
+		},
+		{
+			"item": "minecraft:oak_boat"
+		},
+		{
+			"item": "minecraft:oak_boat"
+		},
+		{
+			"item": "minecraft:oak_boat"
+		},
+		{
+			"item": "minecraft:oak_boat"
+		},
+		{
+			"item": "minecraft:oak_boat"
+		},
+		{
+			"item": "minecraft:oak_boat"
+		}
+	],
+	"result": {
+		"item": "minecraft:oak_boat",
+		"count": 8
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "shulker_box",
+	"pattern": [
+		" - ",
+		"#+#",
+		" - "
+	],
+	"key": {
+		"#": {
+			"tag": "minecraft:logs"
+		},
+		"-": {
+			"item": "minecraft:shulker_shell"
+		},
+		"+": {
+			"item": "minecraft:orange_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:orange_shulker_box"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "shulker_box",
+	"pattern": [
+		"- ",
+		"#+",
+		"- "
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:chest"
+		},
+		"-": {
+			"item": "minecraft:shulker_shell"
+		},
+		"+": {
+			"item": "minecraft:magenta_dye"
+		}
+	},
+	"result": {
+		"item": "minecraft:magenta_shulker_box"
+	}
+}

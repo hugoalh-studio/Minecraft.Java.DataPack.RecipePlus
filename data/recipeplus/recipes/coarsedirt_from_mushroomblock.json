@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"group": "coarse_dirt",
+	"pattern": [
+		"MMM",
+		"MMM",
+		" W "
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:water_bucket"
+		},
+		"M": {
+			"tag": "minecraft:mushroom_blocks"
+		}
+	},
+	"result": {
+		"item": "minecraft:coarse_dirt",
+		"count": 1
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "shulker_box",
+	"pattern": [
+		"- ",
+		"#+",
+		"- "
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:chest"
+		},
+		"-": {
+			"item": "minecraft:shulker_shell"
+		},
+		"+": {
+			"item": "minecraft:lapis_lazuli"
+		}
+	},
+	"result": {
+		"item": "minecraft:blue_shulker_box"
+	}
+}

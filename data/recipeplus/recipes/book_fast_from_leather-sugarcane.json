@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"group": "book",
+	"pattern": [
+		" S ",
+		"LS ",
+		" S "
+	],
+	"key": {
+		"L": {
+			"item": "minecraft:leather"
+		},
+		"S": {
+			"item": "minecraft:sugar_cane"
+		}
+	},
+	"result": {
+		"item": "minecraft:book"
+	}
+}

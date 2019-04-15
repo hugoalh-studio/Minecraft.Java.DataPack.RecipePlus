@@ -1,6 +1,7 @@
 {
 	"replace": false,
 	"values": [
-		"recipeplus:dropitemcrafting/main"
+		"recipeplus:recipe_unlock",
+		"recipeplus:dropcrafting/main"
 	]
 }

@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+	"group": "coarse_dirt",
+	"pattern": [
+		"M M",
+		"MMM",
+		"#W "
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:water_bucket"
+		},
+		"#": {
+			"item": "minecraft:fermented_spider_eye"
+		},
+		"M": {
+			"tag": "recipeplus:meat_all"
+		}
+	},
+	"result": {
+		"item": "minecraft:coarse_dirt",
+		"count": 1
+	}
+}

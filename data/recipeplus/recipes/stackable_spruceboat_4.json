@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_boat",
+	"ingredients": [
+		{
+			"item": "minecraft:spruce_boat"
+		},
+		{
+			"item": "minecraft:spruce_boat"
+		},
+		{
+			"item": "minecraft:spruce_boat"
+		},
+		{
+			"item": "minecraft:spruce_boat"
+		}
+	],
+	"result": {
+		"item": "minecraft:spruce_boat",
+		"count": 4
+	}
+}

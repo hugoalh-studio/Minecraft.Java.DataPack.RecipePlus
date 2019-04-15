@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+	"group": "coarse_dirt",
+	"pattern": [
+		"KKK",
+		"BFB",
+		"BBB"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:dried_kelp_block"
+		},
+		"K": {
+			"item": "minecraft:dried_kelp"
+		},
+		"F": {
+			"item": "minecraft:fermented_spider_eye"
+		}
+	},
+	"result": {
+		"item": "minecraft:coarse_dirt",
+		"count": 1
+	}
+}

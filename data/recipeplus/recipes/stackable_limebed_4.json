@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_bed",
+	"ingredients": [
+		{
+			"item": "minecraft:lime_bed"
+		},
+		{
+			"item": "minecraft:lime_bed"
+		},
+		{
+			"item": "minecraft:lime_bed"
+		},
+		{
+			"item": "minecraft:lime_bed"
+		}
+	],
+	"result": {
+		"item": "minecraft:lime_bed",
+		"count": 4
+	}
+}

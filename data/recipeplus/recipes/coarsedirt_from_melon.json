@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "coarse_dirt",
+	"pattern": [
+		"MMM",
+		"#W "
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:water_bucket"
+		},
+		"#": {
+			"item": "minecraft:fermented_spider_eye"
+		},
+		"M": {
+			"item": "minecraft:melon"
+		}
+	},
+	"result": {
+		"item": "minecraft:coarse_dirt",
+		"count": 1
+	}
+}

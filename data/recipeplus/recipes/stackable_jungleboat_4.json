@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_boat",
+	"ingredients": [
+		{
+			"item": "minecraft:jungle_boat"
+		},
+		{
+			"item": "minecraft:jungle_boat"
+		},
+		{
+			"item": "minecraft:jungle_boat"
+		},
+		{
+			"item": "minecraft:jungle_boat"
+		}
+	],
+	"result": {
+		"item": "minecraft:jungle_boat",
+		"count": 4
+	}
+}

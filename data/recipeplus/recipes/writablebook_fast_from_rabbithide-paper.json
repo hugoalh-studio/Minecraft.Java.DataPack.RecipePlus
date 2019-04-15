@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"group": "writable_book",
+	"pattern": [
+		"HHF",
+		"PPP",
+		"HHI"
+	],
+	"key": {
+		"H": {
+			"item": "minecraft:rabbit_hide"
+		},
+		"P": {
+			"item": "minecraft:paper"
+		},
+		"I": {
+			"item": "minecraft:ink_sac"
+		},
+		"F": {
+			"item": "minecraft:feather"
+		}
+	},
+	"result": {
+		"item": "minecraft:writable_book"
+	}
+}

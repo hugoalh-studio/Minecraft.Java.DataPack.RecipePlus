@@ -1,0 +1,34 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_minecart",
+	"ingredients": [
+		{
+			"item": "minecraft:furnace_minecart"
+		},
+		{
+			"item": "minecraft:furnace_minecart"
+		},
+		{
+			"item": "minecraft:furnace_minecart"
+		},
+		{
+			"item": "minecraft:furnace_minecart"
+		},
+		{
+			"item": "minecraft:furnace_minecart"
+		},
+		{
+			"item": "minecraft:furnace_minecart"
+		},
+		{
+			"item": "minecraft:furnace_minecart"
+		},
+		{
+			"item": "minecraft:furnace_minecart"
+		}
+	],
+	"result": {
+		"item": "minecraft:furnace_minecart",
+		"count": 8
+	}
+}

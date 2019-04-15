@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_bed",
+	"ingredients": [
+		{
+			"item": "minecraft:pink_bed"
+		},
+		{
+			"item": "minecraft:pink_bed"
+		},
+		{
+			"item": "minecraft:pink_bed"
+		},
+		{
+			"item": "minecraft:pink_bed"
+		}
+	],
+	"result": {
+		"item": "minecraft:pink_bed",
+		"count": 4
+	}
+}

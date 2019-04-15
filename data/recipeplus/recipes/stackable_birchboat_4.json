@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_boat",
+	"ingredients": [
+		{
+			"item": "minecraft:birch_boat"
+		},
+		{
+			"item": "minecraft:birch_boat"
+		},
+		{
+			"item": "minecraft:birch_boat"
+		},
+		{
+			"item": "minecraft:birch_boat"
+		}
+	],
+	"result": {
+		"item": "minecraft:birch_boat",
+		"count": 4
+	}
+}
