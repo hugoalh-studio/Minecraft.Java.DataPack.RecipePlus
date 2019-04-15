@@ -1,5 +1,5 @@
 {
-  "parent": "recipeplus:runtime/unlockrecipe_smelting",
+  "parent": "recipeplus:runtime/recipe/furnace/give",
 	"display": {
 		"icon": {
 			"item": "minecraft:furnace"

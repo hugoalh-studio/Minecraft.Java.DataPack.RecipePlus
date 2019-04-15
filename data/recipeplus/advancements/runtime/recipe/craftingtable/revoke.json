@@ -1,5 +1,5 @@
 {
-  "parent": "recipeplus:runtime/unlockrecipe_crafting",
+  "parent": "recipeplus:runtime/recipe/craftingtable/give",
 	"display": {
 		"icon": {
 			"item": "minecraft:crafting_table"
