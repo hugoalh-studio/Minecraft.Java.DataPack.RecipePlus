@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"group": "writable_book",
+	"pattern": [
+		"HHF",
+		"SSS",
+		"HHI"
+	],
+	"key": {
+		"H": {
+			"item": "minecraft:rabbit_hide"
+		},
+		"S": {
+			"item": "minecraft:sugar_cane"
+		},
+		"I": {
+			"item": "minecraft:ink_sac"
+		},
+		"F": {
+			"item": "minecraft:feather"
+		}
+	},
+	"result": {
+		"item": "minecraft:writable_book"
+	}
+}

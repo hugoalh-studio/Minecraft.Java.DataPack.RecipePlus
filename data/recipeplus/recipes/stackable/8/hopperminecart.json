@@ -1,0 +1,34 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_minecart",
+	"ingredients": [
+		{
+			"item": "minecraft:hopper_minecart"
+		},
+		{
+			"item": "minecraft:hopper_minecart"
+		},
+		{
+			"item": "minecraft:hopper_minecart"
+		},
+		{
+			"item": "minecraft:hopper_minecart"
+		},
+		{
+			"item": "minecraft:hopper_minecart"
+		},
+		{
+			"item": "minecraft:hopper_minecart"
+		},
+		{
+			"item": "minecraft:hopper_minecart"
+		},
+		{
+			"item": "minecraft:hopper_minecart"
+		}
+	],
+	"result": {
+		"item": "minecraft:hopper_minecart",
+		"count": 8
+	}
+}

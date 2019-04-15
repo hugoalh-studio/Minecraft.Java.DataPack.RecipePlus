@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_bed",
+	"ingredients": [
+		{
+			"item": "minecraft:white_bed"
+		},
+		{
+			"item": "minecraft:white_bed"
+		},
+		{
+			"item": "minecraft:white_bed"
+		},
+		{
+			"item": "minecraft:white_bed"
+		}
+	],
+	"result": {
+		"item": "minecraft:white_bed",
+		"count": 4
+	}
+}

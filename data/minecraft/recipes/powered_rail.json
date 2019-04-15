@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"X#X",
+		"X#X",
+		"X#X"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:gold_ingot"
+		},
+		"X": {
+			"item": "minecraft:activator_rail"
+		}
+	},
+	"result": {
+		"item": "minecraft:powered_rail",
+		"count": 6
+	}
+}

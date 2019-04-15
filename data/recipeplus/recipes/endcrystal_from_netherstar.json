@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "end_crystal",
+	"pattern": [
+		"GGG",
+		"GNG",
+		"GTG"
+	],
+	"key": {
+		"T": {
+			"item": "minecraft:ghast_tear"
+		},
+		"N": {
+			"item": "minecraft:nether_star"
+		},
+		"G": {
+			"item": "minecraft:glass"
+		}
+	},
+	"result": {
+		"item": "minecraft:end_crystal"
+	}
+}

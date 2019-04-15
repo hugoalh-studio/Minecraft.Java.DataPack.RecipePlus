@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" WW",
+		" IW",
+		"S  "
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:string"
+		},
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"S": {
+			"item": "minecraft:sign"
+		}
+	},
+	"result": {
+		"item": "minecraft:name_tag",
+		"count": 2
+	}
+}

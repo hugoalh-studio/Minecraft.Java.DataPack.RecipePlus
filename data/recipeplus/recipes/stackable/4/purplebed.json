@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_bed",
+	"ingredients": [
+		{
+			"item": "minecraft:purple_bed"
+		},
+		{
+			"item": "minecraft:purple_bed"
+		},
+		{
+			"item": "minecraft:purple_bed"
+		},
+		{
+			"item": "minecraft:purple_bed"
+		}
+	],
+	"result": {
+		"item": "minecraft:purple_bed",
+		"count": 4
+	}
+}

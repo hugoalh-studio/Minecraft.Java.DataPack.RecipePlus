@@ -1,0 +1,33 @@
+{
+  "parent": "recipeplus:runtime/unlockrecipe_crafting",
+	"display": {
+		"icon": {
+			"item": "minecraft:crafting_table"
+		},
+		"title": {
+			"text": "revoke.unlockrecipe.crafting"
+		},
+		"description": {
+			"text": ""
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+  "criteria": {
+    "havecraftingtable": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+				"items": [
+					{
+						"item": "minecraft:crafting_table"
+					}
+				]
+      }
+    }
+  },
+	"rewards": {
+		"function": "recipeplus:runtime/advancement_revoke_unlockrecipe_crafting"
+	}
+}

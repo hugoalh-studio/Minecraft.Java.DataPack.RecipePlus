@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:knowledge_book"
+		},
+		"title": {
+			"text": "java.datapack.recipeplus"
+		},
+		"description": {
+			"text": "@hugoalh, 2.0.0-A2"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false,
+		"background": "minecraft:textures/block/bookshelf.png"
+	},
+	"criteria": {
+		"alwaystrigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

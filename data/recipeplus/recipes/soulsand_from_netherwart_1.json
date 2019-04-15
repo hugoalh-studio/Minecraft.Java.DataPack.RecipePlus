@@ -1,0 +1,30 @@
+{
+	"type": "crafting_shaped",
+	"group": "soul_sand",
+	"pattern": [
+		" N ",
+		" B ",
+		"#SW"
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:water_bucket"
+		},
+		"#": {
+			"item": "minecraft:fermented_spider_eye"
+		},
+		"S": {
+			"tag": "minecraft:sand"
+		},
+		"B": {
+			"item": "minecraft:nether_wart_block"
+		},
+		"N": {
+			"item": "minecraft:nether_wart"
+		}
+	},
+	"result": {
+		"item": "minecraft:soul_sand",
+		"count": 1
+	}
+}

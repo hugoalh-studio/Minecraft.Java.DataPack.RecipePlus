@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"#D#",
+		" # "
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:brick"
+		},
+		"D": {
+			"item": "minecraft:dirt"
+		}
+	},
+	"result": {
+		"item": "minecraft:flower_pot",
+		"count": 6
+	}
+}

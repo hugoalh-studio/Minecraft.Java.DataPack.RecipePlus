@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"group": "ladder",
+	"pattern": [
+		"# #",
+		"###",
+		"# #"
+	],
+	"key": {
+		"#": {
+			"tag": "minecraft:planks"
+		}
+	},
+	"result": {
+		"item": "minecraft:ladder",
+		"count": 6
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"CGC",
+		"ggg",
+		"SGD"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:end_crystal"
+		},
+		"G": {
+			"item": "minecraft:gold_block"
+		},
+		"g": {
+			"item": "minecraft:gold_ingot"
+		},
+		"S": {
+			"item": "minecraft:soul_sand"
+		},
+		"D": {
+			"item": "minecraft:dragon_breath"
+		}
+	},
+	"result": {
+		"item": "minecraft:totem_of_undying"
+	}
+}

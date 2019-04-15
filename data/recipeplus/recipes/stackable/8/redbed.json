@@ -1,0 +1,34 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_bed",
+	"ingredients": [
+		{
+			"item": "minecraft:red_bed"
+		},
+		{
+			"item": "minecraft:red_bed"
+		},
+		{
+			"item": "minecraft:red_bed"
+		},
+		{
+			"item": "minecraft:red_bed"
+		},
+		{
+			"item": "minecraft:red_bed"
+		},
+		{
+			"item": "minecraft:red_bed"
+		},
+		{
+			"item": "minecraft:red_bed"
+		},
+		{
+			"item": "minecraft:red_bed"
+		}
+	],
+	"result": {
+		"item": "minecraft:red_bed",
+		"count": 8
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_boat",
+	"ingredients": [
+		{
+			"item": "minecraft:acacia_boat"
+		},
+		{
+			"item": "minecraft:acacia_boat"
+		},
+		{
+			"item": "minecraft:acacia_boat"
+		},
+		{
+			"item": "minecraft:acacia_boat"
+		}
+	],
+	"result": {
+		"item": "minecraft:acacia_boat",
+		"count": 4
+	}
+}

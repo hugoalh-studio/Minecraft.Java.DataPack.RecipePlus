@@ -1,0 +1,27 @@
+{
+	"type": "crafting_shaped",
+	"group": "horse_armor",
+	"pattern": [
+		"CCH",
+		"III",
+		"L L"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:yellow_carpet"
+		},
+		"H": {
+			"item": "minecraft:diamond_helmet"
+		},
+		"I": {
+			"item": "minecraft:diamond"
+		},
+		"L": {
+			"item": "minecraft:diamond_leggings"
+		}
+	},
+	"result": {
+		"item": "minecraft:diamond_horse_armor",
+		"count": 1
+	}
+}

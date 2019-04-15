@@ -1,0 +1,27 @@
+{
+	"type": "crafting_shaped",
+	"group": "horse_armor",
+	"pattern": [
+		"CCH",
+		"III",
+		"L L"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:black_carpet"
+		},
+		"H": {
+			"item": "minecraft:iron_helmet"
+		},
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"L": {
+			"item": "minecraft:iron_leggings"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_horse_armor",
+		"count": 1
+	}
+}

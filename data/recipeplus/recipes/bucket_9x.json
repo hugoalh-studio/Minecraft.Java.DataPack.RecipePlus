@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"group": "bucket",
+	"pattern": [
+		"# #",
+		" # "
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:iron_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:bucket",
+		"count": 9
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"type": "smelting",
+	"group": "quartz",
+	"ingredient": {
+		"item": "minecraft:diorite"
+	},
+	"result": "minecraft:quartz",
+	"experience": 0.2,
+	"cookingtime": 400
+}

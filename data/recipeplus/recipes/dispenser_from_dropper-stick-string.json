@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "dispenser",
+	"pattern": [
+		" WS",
+		"WDS",
+		" WS"
+	],
+	"key": {
+		"D": {
+			"item": "minecraft:dropper"
+		},
+		"W": {
+			"item": "minecraft:stick"
+		},
+		"S": {
+			"item": "minecraft:string"
+		}
+	},
+	"result": {
+		"item": "minecraft:dispenser"
+	}
+}

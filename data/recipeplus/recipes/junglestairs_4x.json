@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"group": "wooden_stairs",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"tag": "minecraft:jungle_logs"
+		}
+	},
+	"result": {
+		"item": "minecraft:jungle_stairs",
+		"count": 32
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"group": "iron_trapdoor",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:iron_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_trapdoor",
+		"count": 9
+	}
+}

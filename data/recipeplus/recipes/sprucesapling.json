@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"group": "sapling",
+	"pattern": [
+		"LLL",
+		"LSL",
+		"LLL"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:stick"
+		},
+		"L": {
+			"item": "minecraft:spruce_leaves"
+		}
+	},
+	"result": {
+		"item": "minecraft:spruce_sapling",
+		"count": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"group": "snow_block",
+	"pattern": [
+		"#",
+		"#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:snow"
+		}
+	},
+	"result": {
+		"item": "minecraft:snow_block",
+		"count": 1
+	}
+}

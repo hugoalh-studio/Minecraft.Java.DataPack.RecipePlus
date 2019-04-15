@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"group": "minecart",
+	"pattern": [
+		"# #",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:iron_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:minecart",
+		"count": 9
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:lapis_lazuli"
+		},
+		{
+			"item": "minecraft:dandelion_yellow"
+		}
+	],
+	"result": {
+		"item": "minecraft:cactus_green",
+		"count": 2
+	}
+}

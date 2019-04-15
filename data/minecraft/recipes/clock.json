@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"group": "clock",
+	"pattern": [
+		" # ",
+		"#X#",
+		" # "
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:gold_ingot"
+		},
+		"X": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:clock",
+		"count": 1
+	}
+}

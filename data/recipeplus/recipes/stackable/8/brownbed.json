@@ -1,0 +1,34 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_bed",
+	"ingredients": [
+		{
+			"item": "minecraft:brown_bed"
+		},
+		{
+			"item": "minecraft:brown_bed"
+		},
+		{
+			"item": "minecraft:brown_bed"
+		},
+		{
+			"item": "minecraft:brown_bed"
+		},
+		{
+			"item": "minecraft:brown_bed"
+		},
+		{
+			"item": "minecraft:brown_bed"
+		},
+		{
+			"item": "minecraft:brown_bed"
+		},
+		{
+			"item": "minecraft:brown_bed"
+		}
+	],
+	"result": {
+		"item": "minecraft:brown_bed",
+		"count": 8
+	}
+}

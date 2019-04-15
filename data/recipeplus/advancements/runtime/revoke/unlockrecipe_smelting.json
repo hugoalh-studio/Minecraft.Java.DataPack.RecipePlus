@@ -1,0 +1,33 @@
+{
+  "parent": "recipeplus:runtime/unlockrecipe_smelting",
+	"display": {
+		"icon": {
+			"item": "minecraft:furnace"
+		},
+		"title": {
+			"text": "revoke.unlockrecipe.smelting"
+		},
+		"description": {
+			"text": ""
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+  "criteria": {
+    "havefurnace": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+				"items": [
+					{
+						"item": "minecraft:furnace"
+					}
+				]
+      }
+    }
+  },
+	"rewards": {
+		"function": "recipeplus:runtime/advancement_revoke_unlockrecipe_smelting"
+	}
+}

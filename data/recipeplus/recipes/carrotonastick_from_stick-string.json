@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "carrot_on_a_stick",
+	"pattern": [
+		"  #",
+		" #X",
+		"#CX"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:stick"
+		},
+		"X": {
+			"item": "minecraft:string"
+		},
+		"C": {
+			"item": "minecraft:carrot"
+		}
+	},
+	"result": {
+		"item": "minecraft:carrot_on_a_stick"
+	}
+}

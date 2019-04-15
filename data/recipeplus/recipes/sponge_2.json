@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "sponge",
+	"pattern": [
+		" L ",
+		"YSY",
+		" L "
+	],
+	"key": {
+		"Y": {
+			"item": "minecraft:yellow_wool"
+		},
+		"L": {
+			"item": "minecraft:lime_wool"
+		},
+		"S": {
+			"item": "minecraft:slime_ball"
+		}
+	},
+	"result": {
+		"item": "minecraft:sponge"
+	}
+}

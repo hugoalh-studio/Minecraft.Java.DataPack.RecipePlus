@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_minecart",
+	"ingredients": [
+		{
+			"item": "minecraft:tnt_minecart"
+		},
+		{
+			"item": "minecraft:tnt_minecart"
+		},
+		{
+			"item": "minecraft:tnt_minecart"
+		},
+		{
+			"item": "minecraft:tnt_minecart"
+		}
+	],
+	"result": {
+		"item": "minecraft:tnt_minecart",
+		"count": 4
+	}
+}

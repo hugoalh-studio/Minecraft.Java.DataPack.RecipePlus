@@ -1,0 +1,27 @@
+{
+	"type": "crafting_shaped",
+	"group": "command_block_minecart",
+	"pattern": [
+		"IAI",
+		"III"
+	],
+	"key": {
+		"A": [
+			{
+				"item": "minecraft:command_block"
+			},
+			{
+				"item": "minecraft:chain_command_block"
+			},
+			{
+				"item": "minecraft:repeating_command_block"
+			}
+		],
+		"I": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:command_block_minecart"
+	}
+}

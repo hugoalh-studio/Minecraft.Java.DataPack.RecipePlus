@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:sugar",Count:1b}}] at @s if block ~ ~ ~ minecraft:cauldron[level=3] if block ~ ~-1 ~ minecraft:fire run function recipeplus:dropitemcrafting/

@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"group": "coarse_dirt",
+	"pattern": [
+		"GD",
+		"DG"
+	],
+	"key": {
+		"D": {
+			"item": "minecraft:dirt"
+		},
+		"G": {
+			"item": "minecraft:gravel"
+		}
+	},
+	"result": {
+		"item": "minecraft:coarse_dirt",
+		"count": 4
+	}
+}

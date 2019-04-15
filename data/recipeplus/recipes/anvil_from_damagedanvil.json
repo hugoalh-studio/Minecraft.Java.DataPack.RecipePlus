@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "anvil",
+	"pattern": [
+		"iIi",
+		"iDi",
+		"iii"
+	],
+	"key": {
+		"D": {
+			"item": "minecraft:damaged_anvil"
+		},
+		"I": {
+			"item": "minecraft:iron_block"
+		},
+		"i": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:anvil"
+	}
+}

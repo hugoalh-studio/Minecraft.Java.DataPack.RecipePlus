@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"group": "writable_book",
+	"pattern": [
+		" SF",
+		"LS ",
+		" SI"
+	],
+	"key": {
+		"L": {
+			"item": "minecraft:leather"
+		},
+		"S": {
+			"item": "minecraft:sugar_cane"
+		},
+		"I": {
+			"item": "minecraft:ink_sac"
+		},
+		"F": {
+			"item": "minecraft:feather"
+		}
+	},
+	"result": {
+		"item": "minecraft:writable_book"
+	}
+}

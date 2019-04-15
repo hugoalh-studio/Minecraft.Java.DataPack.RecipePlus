@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"group": "writable_book",
+	"pattern": [
+		" PF",
+		"LP ",
+		" PI"
+	],
+	"key": {
+		"L": {
+			"item": "minecraft:leather"
+		},
+		"P": {
+			"item": "minecraft:paper"
+		},
+		"I": {
+			"item": "minecraft:ink_sac"
+		},
+		"F": {
+			"item": "minecraft:feather"
+		}
+	},
+	"result": {
+		"item": "minecraft:writable_book"
+	}
+}

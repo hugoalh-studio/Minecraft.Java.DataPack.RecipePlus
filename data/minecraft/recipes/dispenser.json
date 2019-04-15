@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "dispenser",
+	"pattern": [
+		"CCC",
+		"CBC",
+		"CRC"
+	],
+	"key": {
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"C": {
+			"item": "minecraft:cobblestone"
+		},
+		"B": {
+			"item": "minecraft:bow"
+		}
+	},
+	"result": {
+		"item": "minecraft:dispenser"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"group": "enchanted_golden_apple",
+	"pattern": [
+		"GgG",
+		"GAG",
+		"GGG"
+	],
+	"key": {
+		"A": {
+			"item": "minecraft:golden_apple"
+		},
+		"G": {
+			"item": "minecraft:gold_block"
+		},
+		"g": {
+			"item": "minecraft:gold_ingot"
+		}
+	},
+	"result": {
+		"item": "minecraft:enchanted_golden_apple"
+	}
+}

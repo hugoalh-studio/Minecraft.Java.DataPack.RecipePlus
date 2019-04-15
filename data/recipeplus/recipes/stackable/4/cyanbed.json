@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"group": "stackable_bed",
+	"ingredients": [
+		{
+			"item": "minecraft:cyan_bed"
+		},
+		{
+			"item": "minecraft:cyan_bed"
+		},
+		{
+			"item": "minecraft:cyan_bed"
+		},
+		{
+			"item": "minecraft:cyan_bed"
+		}
+	],
+	"result": {
+		"item": "minecraft:cyan_bed",
+		"count": 4
+	}
+}
