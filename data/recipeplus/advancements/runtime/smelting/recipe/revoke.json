@@ -1,11 +1,11 @@
 {
-  "parent": "recipeplus:runtime/recipe/furnace/give",
+  "parent": "recipeplus:runtime/smelting/recipe/give",
 	"display": {
 		"icon": {
 			"item": "minecraft:furnace"
 		},
 		"title": {
-			"text": "revoke.unlockrecipe.smelting"
+			"text": "Smelting.Recipe.Revoke"
 		},
 		"description": {
 			"text": ""

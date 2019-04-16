@@ -1,11 +1,11 @@
 {
-  "parent": "recipeplus:runtime/recipe/craftingtable/give",
+  "parent": "recipeplus:runtime/crafting/recipe/give",
 	"display": {
 		"icon": {
 			"item": "minecraft:crafting_table"
 		},
 		"title": {
-			"text": "revoke.unlockrecipe.crafting"
+			"text": "Crafting.Recipe.Revoke"
 		},
 		"description": {
 			"text": ""
