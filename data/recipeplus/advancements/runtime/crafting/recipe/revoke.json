@@ -1,5 +1,5 @@
 {
-  "parent": "recipeplus:runtime/crafting/recipe/give",
+	"parent": "recipeplus:runtime/crafting/recipe/give",
 	"display": {
 		"icon": {
 			"item": "minecraft:crafting_table"
@@ -15,19 +15,19 @@
 		"announce_to_chat": false,
 		"hidden": true
 	},
-  "criteria": {
-    "havecraftingtable": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
+	"criteria": {
+		"obtaincraftingtable": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
 				"items": [
 					{
 						"item": "minecraft:crafting_table"
 					}
 				]
-      }
-    }
-  },
+			}
+		}
+	},
 	"rewards": {
-		"function": "recipeplus:runtime/advancement_revoke_unlockrecipe_crafting"
+		"function": "recipeplus:runtime/crafting_recipe_revoke"
 	}
 }

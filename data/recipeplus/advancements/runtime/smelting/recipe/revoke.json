@@ -1,5 +1,5 @@
 {
-  "parent": "recipeplus:runtime/smelting/recipe/give",
+	"parent": "recipeplus:runtime/smelting/recipe/give",
 	"display": {
 		"icon": {
 			"item": "minecraft:furnace"
@@ -15,19 +15,19 @@
 		"announce_to_chat": false,
 		"hidden": true
 	},
-  "criteria": {
-    "havefurnace": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
+	"criteria": {
+		"obtainfurnace": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
 				"items": [
 					{
 						"item": "minecraft:furnace"
 					}
 				]
-      }
-    }
-  },
+			}
+		}
+	},
 	"rewards": {
-		"function": "recipeplus:runtime/advancement_revoke_unlockrecipe_smelting"
+		"function": "recipeplus:runtime/smelting_recipe_revoke"
 	}
 }
