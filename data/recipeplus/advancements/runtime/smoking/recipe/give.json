@@ -1,0 +1,31 @@
+{
+	"parent": "recipeplus:runtime/root",
+	"display": {
+		"icon": {
+			"item": "minecraft:smoker"
+		},
+		"title": {
+			"translate": "item.minecraft.knowledge_book"
+		},
+		"description": {
+			"translate": "block.minecraft.smoker"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"placesmoker": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:smoker"
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:unknown"
+		]
+	}
+}

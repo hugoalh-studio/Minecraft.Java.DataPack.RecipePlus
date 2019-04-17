@@ -1,0 +1,31 @@
+{
+	"parent": "recipeplus:runtime/root",
+	"display": {
+		"icon": {
+			"item": "minecraft:campfire"
+		},
+		"title": {
+			"translate": "item.minecraft.knowledge_book"
+		},
+		"description": {
+			"translate": "block.minecraft.campfire"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"placecampfire": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:campfire"
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:unknown"
+		]
+	}
+}

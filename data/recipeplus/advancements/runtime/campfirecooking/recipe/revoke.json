@@ -1,0 +1,33 @@
+{
+	"parent": "recipeplus:runtime/campfirecooking/recipe/give",
+	"display": {
+		"icon": {
+			"item": "minecraft:campfire"
+		},
+		"title": {
+			"text": "CampfireCooking.Recipe.Revoke"
+		},
+		"description": {
+			"text": ""
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"obtaincampfire": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:campfire"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "recipeplus:runtime/campfirecooking_recipe_revoke"
+	}
+}
