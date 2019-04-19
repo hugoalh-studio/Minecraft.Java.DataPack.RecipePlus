@@ -1,16 +1,9 @@
 {
-	"type": "crafting_shaped",
-	"pattern": [
-		"##",
-		"##"
-	],
-	"key": {
-		"#": {
-			"item": "minecraft:stone_slab"
-		}
+	"type": "smelting",
+	"ingredient": {
+		"item": "minecraft:stone"
 	},
-	"result": {
-		"item": "minecraft:smooth_stone",
-		"count": 2
-	}
+	"result": "minecraft:smooth_stone",
+	"experience": 0.1,
+	"cookingtime": 200
 }
