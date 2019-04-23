@@ -1,5 +1,4 @@
 {
-	"replace": false,
 	"values": [
 		"minecraft:bat_spawn_egg",
 		"minecraft:blaze_spawn_egg",
@@ -19,14 +18,17 @@
 		"minecraft:guardian_spawn_egg",
 		"minecraft:horse_spawn_egg",
 		"minecraft:husk_spawn_egg",
+		"minecraft:illager_beast_spawn_egg",
 		"minecraft:llama_spawn_egg",
 		"minecraft:magma_cube_spawn_egg",
 		"minecraft:mooshroom_spawn_egg",
 		"minecraft:mule_spawn_egg",
 		"minecraft:ocelot_spawn_egg",
+		"minecraft:panda_spawn_egg",
 		"minecraft:parrot_spawn_egg",
 		"minecraft:phantom_spawn_egg",
 		"minecraft:pig_spawn_egg",
+		"minecraft:pillager_spawn_egg",
 		"minecraft:polar_bear_spawn_egg",
 		"minecraft:pufferfish_spawn_egg",
 		"minecraft:rabbit_spawn_egg",
