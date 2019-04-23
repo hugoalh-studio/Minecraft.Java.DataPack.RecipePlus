@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"values": [
 		"minecraft:white_dye",
 		"minecraft:orange_dye",

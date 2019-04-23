@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"values": [
 		"minecraft:prismarine",
 		"minecraft:prismarine_bricks",

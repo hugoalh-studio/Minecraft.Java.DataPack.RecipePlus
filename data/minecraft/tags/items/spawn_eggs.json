@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"values": [
 		"minecraft:bat_spawn_egg",
 		"minecraft:blaze_spawn_egg",

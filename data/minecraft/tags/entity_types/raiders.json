@@ -1,11 +1,11 @@
 {
-  "replace": false,
-  "values": [
-    "minecraft:evoker",
-    "minecraft:pillager",
-    "minecraft:ravager",
-    "minecraft:vindicator",
-    "minecraft:illusioner",
-    "minecraft:witch"
-  ]
+	"replace": false,
+	"values": [
+		"minecraft:evoker",
+		"minecraft:pillager",
+		"minecraft:ravager",
+		"minecraft:vindicator",
+		"minecraft:illusioner",
+		"minecraft:witch"
+	]
 }

@@ -1,7 +1,8 @@
 {
-  "values": [
-    "minecraft:fireball",
-    "minecraft:dragon_fireball",
-    "minecraft:small_fireball"
-  ]
+	"replace": false,
+	"values": [
+		"minecraft:fireball",
+		"minecraft:dragon_fireball",
+		"minecraft:small_fireball"
+	]
 }

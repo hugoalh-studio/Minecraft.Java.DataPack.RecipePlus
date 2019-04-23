@@ -1,6 +1,7 @@
 {
-  "values": [
-    "minecraft:cave_spider",
-    "minecraft:spider"
-  ]
+	"replace": false,
+	"values": [
+		"minecraft:cave_spider",
+		"minecraft:spider"
+	]
 }
