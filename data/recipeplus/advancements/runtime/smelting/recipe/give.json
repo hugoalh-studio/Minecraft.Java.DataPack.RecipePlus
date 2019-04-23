@@ -27,10 +27,6 @@
 		"recipes": [
 			"recipeplus:smelting/coal_from_charcoal",
 			"recipeplus:smelting/quartz_from_diorite",
-			"recipeplus:smelting/smoothquartz",
-			"recipeplus:smelting/smoothredsandstone",
-			"recipeplus:smelting/smoothsandstone",
-			"recipeplus:smelting/smoothstone",
 			"recipeplus:smelting/stoneslab_from_cobblestoneslab"
 		]
 	}
