@@ -1,5 +1,6 @@
 {
-	"type": "crafting_shaped",
+	"type": "minecraft:crafting_shaped",
+	"group": "packed_ice",
 	"pattern": [
 		"###",
 		"###",
@@ -11,6 +12,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:packed_ice"
+		"item": "minecraft:packed_ice",
+		"count": 1
 	}
 }
