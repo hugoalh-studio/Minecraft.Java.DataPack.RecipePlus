@@ -7,13 +7,13 @@
 			"text": "Java.DataPack.RecipePlus"
 		},
 		"description": {
-			"text": "Recipe+, 3.0.0-E2"
+			"text": "Recipe+, 3.0.0-G1"
 		},
 		"frame": "task",
 		"show_toast": false,
 		"announce_to_chat": false,
 		"hidden": false,
-		"background": "minecraft:textures/block/bookshelf.png"
+		"background": "minecraft:textures/block/black_concrete.png"
 	},
 	"criteria": {
 		"alwaystrigger": {
