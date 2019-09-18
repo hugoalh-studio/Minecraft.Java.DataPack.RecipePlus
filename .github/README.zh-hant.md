@@ -1,15 +1,15 @@
-# <div align="center"><img src="https://i.imgur.com/LRrh4Ms.png" height="64px;" /><br />Minecraft Java Data Pack: Recipe+</div>
+# <div align="center"><img src="https://i.imgur.com/LRrh4Ms.png" height="64px;" /><br />Minecraft Java資料包：配方＋</div>
 
 🌐｜[English](./README.md)　[中文](./README.zh-hant.md)
 
 <table>
   <tr>
-    <td align="center"><strong>Index</strong></td>
+    <td align="center"><strong>索引</strong></td>
     <td>hugoalh/Minecraft.Java.DataPack.RecipePlus</td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Author & Contributor</strong><br />
+      <strong>作者、貢獻者</strong><br />
       <img src="https://img.shields.io/github/contributors/hugoalh/Minecraft.Java.DataPack.RecipePlus?color=000000&label=%20" />
     </td>
     <td>
@@ -19,23 +19,23 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Version</strong></td>
+    <td align="center"><strong>版本</strong></td>
     <td>
       <table>
         <tr align="center">
           <td></td>
-          <td><strong>Stable</strong></td>
-          <td><strong>Latest</strong></td>
-          <td><strong>Build</strong></td>
+          <td><strong>穩定</strong></td>
+          <td><strong>最新</strong></td>
+          <td><strong>建置</strong></td>
         </tr>
         <tr align="center">
-          <td><strong>Number / Code</strong></td>
+          <td><strong>編號／代碼</strong></td>
           <td><img src="https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.RecipePlus?color=000000&label=%20" /></td>
           <td><img src="https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.RecipePlus?include_prereleases&color=000000&label=%20" /></td>
           <td>-</td>
         </tr>
         <tr align="center">
-          <td><strong>Published Date</strong></td>
+          <td><strong>發佈日期</strong></td>
           <td><img src="https://img.shields.io/github/release-date/hugoalh/Minecraft.Java.DataPack.RecipePlus?color=000000&label=%20" /></td>
           <td><img src="https://img.shields.io/github/release-date-pre/hugoalh/Minecraft.Java.DataPack.RecipePlus?color=000000&label=%20" /></td>
           <td><img src="https://img.shields.io/github/last-commit/hugoalh/Minecraft.Java.DataPack.RecipePlus/master?color=000000&label=%20" /></td>
@@ -44,25 +44,21 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>License</strong></td>
-    <td>Public source; All rights reserved, unless otherwise explicitly stated</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tracking</strong></td>
+    <td align="center"><strong>跟踪</strong></td>
     <td>
       <table>
         <tr align="center">
           <td></td>
-          <td><strong>Issue</strong></td>
-          <td><strong>Pull Request</strong></td>
+          <td><strong>問題</strong></td>
+          <td><strong>合併請求</strong></td>
         </tr>
         <tr align="center">
-          <td><strong>Open</strong></td>
+          <td><strong>開啟</strong></td>
           <td><img src="https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.RecipePlus?color=000000&label=%20" /></td>
           <td><img src="https://img.shields.io/github/issues-pr-raw/hugoalh/Minecraft.Java.DataPack.RecipePlus?color=000000&label=%20" /></td>
         </tr>
         <tr align="center">
-          <td><strong>Closed</strong></td>
+          <td><strong>已關閉</strong></td>
           <td><img src="https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.RecipePlus?color=000000&label=%20" /></td>
           <td><img src="https://img.shields.io/github/issues-pr-closed-raw/hugoalh/Minecraft.Java.DataPack.RecipePlus?color=000000&label=%20" /></td>
         </tr>
@@ -70,8 +66,12 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><strong>授權</strong></td>
+    <td>公開源碼；除非另有明確說明，否則保留所有權利</td>
+  </tr>
+  <tr>
     <td align="center">
-      <strong>Download</strong><br />
+      <strong>下載</strong><br />
       <img src="https://img.shields.io/github/downloads/hugoalh/Minecraft.Java.DataPack.RecipePlus/total?color=000000&label=%20" />
     </td>
     <td>
@@ -81,7 +81,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Badge</strong></td>
+    <td align="center"><strong>徽章</strong></td>
     <td>
       <img src="https://img.shields.io/github/languages/count/hugoalh/Minecraft.Java.DataPack.RecipePlus?logo=github" />
       <img src="https://img.shields.io/github/languages/top/hugoalh/Minecraft.Java.DataPack.RecipePlus?logo=github" />
@@ -94,10 +94,10 @@
   </tr>
 </table>
 
-## 📜 Description
+## 📜 說明
 
-Tweak recipe and add new recipe for Minecraft Java. Some recipe can reduce crafting time.
+給Minecraft Java調整配方並增加新配方。部分配方可以減少製作時間。
 
-## 🐛 Issue
+## 🐛 問題
 
-Found any issue in this project? Submit the issue via [GitHub (require GitHub account)](https://github.com/hugoalh/Minecraft.Java.DataPack.RecipePlus/issues) or [Google Forms (not require any account)](https://goo.gl/forms/yoecFL5qJYVl2d0i2).
+在這個專案中發現任何問題？通過[GitHub（需要GitHub帳戶）](https://github.com/hugoalh/Minecraft.Java.DataPack.RecipePlus/issues)或[Google表單（不需要任何帳戶）](https://goo.gl/forms/yoecFL5qJYVl2d0i2)提交該問題。
