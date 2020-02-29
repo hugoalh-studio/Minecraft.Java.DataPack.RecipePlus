@@ -1,11 +1,11 @@
 {
-	"parent": "recipeplus:runtime/crafting/recipe/give",
+	"parent": "recipeplus:runtime/reloadrecipe/smoking/give",
 	"display": {
 		"icon": {
-			"item": "minecraft:crafting_table"
+			"item": "minecraft:smoker"
 		},
 		"title": {
-			"text": "Crafting.Recipe.Revoke"
+			"text": "Smoking.Recipe.Revoke"
 		},
 		"description": {
 			"text": ""
@@ -16,18 +16,18 @@
 		"hidden": true
 	},
 	"criteria": {
-		"obtaincraftingtable": {
+		"obtainsmoker": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
-						"item": "minecraft:crafting_table"
+						"item": "minecraft:smoker"
 					}
 				]
 			}
 		}
 	},
 	"rewards": {
-		"function": "recipeplus:runtime/crafting_recipe_revoke"
+		"function": "recipeplus:runtime/smoking_recipe_revoke"
 	}
 }

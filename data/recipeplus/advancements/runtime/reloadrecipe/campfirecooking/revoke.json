@@ -1,11 +1,11 @@
 {
-	"parent": "recipeplus:runtime/cutting/recipe/give",
+	"parent": "recipeplus:runtime/reloadrecipe/campfirecooking/give",
 	"display": {
 		"icon": {
-			"item": "minecraft:stonecutter"
+			"item": "minecraft:campfire"
 		},
 		"title": {
-			"text": "Cutting.Recipe.Revoke"
+			"text": "CampfireCooking.Recipe.Revoke"
 		},
 		"description": {
 			"text": ""
@@ -16,18 +16,18 @@
 		"hidden": true
 	},
 	"criteria": {
-		"obtainstonecutter": {
+		"obtaincampfire": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
-						"item": "minecraft:stonecutter"
+						"item": "minecraft:campfire"
 					}
 				]
 			}
 		}
 	},
 	"rewards": {
-		"function": "recipeplus:runtime/cutting_recipe_revoke"
+		"function": "recipeplus:runtime/campfirecooking_recipe_revoke"
 	}
 }

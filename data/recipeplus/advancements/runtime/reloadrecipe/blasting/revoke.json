@@ -1,11 +1,11 @@
 {
-	"parent": "recipeplus:runtime/smelting/recipe/give",
+	"parent": "recipeplus:runtime/reloadrecipe/blasting/give",
 	"display": {
 		"icon": {
-			"item": "minecraft:furnace"
+			"item": "minecraft:blast_furnace"
 		},
 		"title": {
-			"text": "Smelting.Recipe.Revoke"
+			"text": "Blasting.Recipe.Revoke"
 		},
 		"description": {
 			"text": ""
@@ -16,18 +16,18 @@
 		"hidden": true
 	},
 	"criteria": {
-		"obtainfurnace": {
+		"obtainblastfurnace": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
-						"item": "minecraft:furnace"
+						"item": "minecraft:blast_furnace"
 					}
 				]
 			}
 		}
 	},
 	"rewards": {
-		"function": "recipeplus:runtime/smelting_recipe_revoke"
+		"function": "recipeplus:runtime/blasting_recipe_revoke"
 	}
 }

@@ -1,11 +1,11 @@
 {
-	"parent": "recipeplus:runtime/blasting/recipe/give",
+	"parent": "recipeplus:runtime/reloadrecipe/cutting/give",
 	"display": {
 		"icon": {
-			"item": "minecraft:blast_furnace"
+			"item": "minecraft:stonecutter"
 		},
 		"title": {
-			"text": "Blasting.Recipe.Revoke"
+			"text": "Cutting.Recipe.Revoke"
 		},
 		"description": {
 			"text": ""
@@ -16,18 +16,18 @@
 		"hidden": true
 	},
 	"criteria": {
-		"obtainblastfurnace": {
+		"obtainstonecutter": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
-						"item": "minecraft:blast_furnace"
+						"item": "minecraft:stonecutter"
 					}
 				]
 			}
 		}
 	},
 	"rewards": {
-		"function": "recipeplus:runtime/blasting_recipe_revoke"
+		"function": "recipeplus:runtime/cutting_recipe_revoke"
 	}
 }

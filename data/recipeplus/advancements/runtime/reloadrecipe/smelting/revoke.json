@@ -1,11 +1,11 @@
 {
-	"parent": "recipeplus:runtime/campfirecooking/recipe/give",
+	"parent": "recipeplus:runtime/reloadrecipe/smelting/give",
 	"display": {
 		"icon": {
-			"item": "minecraft:campfire"
+			"item": "minecraft:furnace"
 		},
 		"title": {
-			"text": "CampfireCooking.Recipe.Revoke"
+			"text": "Smelting.Recipe.Revoke"
 		},
 		"description": {
 			"text": ""
@@ -16,18 +16,18 @@
 		"hidden": true
 	},
 	"criteria": {
-		"obtaincampfire": {
+		"obtainfurnace": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [
 					{
-						"item": "minecraft:campfire"
+						"item": "minecraft:furnace"
 					}
 				]
 			}
 		}
 	},
 	"rewards": {
-		"function": "recipeplus:runtime/campfirecooking_recipe_revoke"
+		"function": "recipeplus:runtime/smelting_recipe_revoke"
 	}
 }
