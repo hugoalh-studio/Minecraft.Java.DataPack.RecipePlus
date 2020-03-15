@@ -1,7 +1,7 @@
 {
 	"replace": false,
 	"values": [
-		"minecraft:terracotta",
-		"#minecraft:stained_terracotta"
+		"#minecraft:stained_terracotta",
+		"minecraft:terracotta"
 	]
 }
