@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "fletching_table",
+	"pattern": [
+		"@@",
+		"# "
+	],
+	"key": {
+		"#": {
+			"tag": "minecraft:crafting_table"
+		},
+		"@": {
+			"item": "minecraft:flint"
+		}
+	},
+	"result": {
+		"item": "minecraft:fletching_table",
+		"count": 1
+	}
+}

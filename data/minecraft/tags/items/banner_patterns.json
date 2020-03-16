@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"minecraft:creeper_banner_pattern",
 		"minecraft:flower_banner_pattern",

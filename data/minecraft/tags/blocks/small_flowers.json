@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"minecraft:allium",
 		"minecraft:azure_bluet",

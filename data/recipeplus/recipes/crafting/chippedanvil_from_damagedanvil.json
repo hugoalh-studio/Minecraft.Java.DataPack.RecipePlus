@@ -15,6 +15,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:chipped_anvil"
+		"item": "minecraft:chipped_anvil",
+		"count": 1
 	}
 }

@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"minecraft:activator_rail",
 		"minecraft:detector_rail",

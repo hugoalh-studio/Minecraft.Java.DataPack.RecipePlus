@@ -16,6 +16,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:grindstone"
+		"item": "minecraft:grindstone",
+		"count": 1
 	}
 }

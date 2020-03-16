@@ -17,6 +17,7 @@
 		}
 	],
 	"result": {
-		"item": "minecraft:fermented_spider_eye"
+		"item": "minecraft:fermented_spider_eye",
+		"count": 1
 	}
 }

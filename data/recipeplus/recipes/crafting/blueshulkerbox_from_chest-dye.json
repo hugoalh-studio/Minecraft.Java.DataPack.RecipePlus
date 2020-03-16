@@ -14,10 +14,11 @@
 			"item": "minecraft:shulker_shell"
 		},
 		"+": {
-			"item": "minecraft:lapis_lazuli"
+			"item": "minecraft:blue_dye"
 		}
 	},
 	"result": {
-		"item": "minecraft:blue_shulker_box"
+		"item": "minecraft:blue_shulker_box",
+		"count": 1
 	}
 }

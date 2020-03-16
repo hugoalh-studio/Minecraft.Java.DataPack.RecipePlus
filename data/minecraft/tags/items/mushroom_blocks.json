@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"minecraft:brown_mushroom_block",
 		"minecraft:mushroom_stem",

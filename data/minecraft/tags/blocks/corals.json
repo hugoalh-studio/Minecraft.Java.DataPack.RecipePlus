@@ -1,11 +1,7 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
-		"#minecraft:coral_plants",
-		"minecraft:brain_coral_fan",
-		"minecraft:bubble_coral_fan",
-		"minecraft:fire_coral_fan",
-		"minecraft:horn_coral_fan",
-		"minecraft:tube_coral_fan"
+		"#minecraft:coral_fans",
+		"#minecraft:coral_plants"
 	]
 }

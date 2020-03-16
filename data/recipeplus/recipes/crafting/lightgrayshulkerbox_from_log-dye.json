@@ -18,6 +18,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:light_gray_shulker_box"
+		"item": "minecraft:light_gray_shulker_box",
+		"count": 1
 	}
 }

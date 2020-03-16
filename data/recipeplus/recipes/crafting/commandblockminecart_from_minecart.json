@@ -22,6 +22,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:command_block_minecart"
+		"item": "minecraft:command_block_minecart",
+		"count": 1
 	}
 }

@@ -1,19 +1,18 @@
 {
 	"type": "minecraft:crafting_shaped",
+	"group": "composter",
 	"pattern": [
-		"S S",
-		"S S",
-		"PPP"
+		"# #",
+		"# #",
+		"###"
 	],
 	"key": {
-		"S": {
+		"#": {
 			"tag": "minecraft:wooden_slabs"
-		},
-		"P": {
-			"tag": "minecraft:planks"
 		}
 	},
 	"result": {
-		"item": "minecraft:composter"
+		"item": "minecraft:composter",
+		"count": 1
 	}
 }

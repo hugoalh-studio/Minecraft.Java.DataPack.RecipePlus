@@ -18,6 +18,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:end_crystal"
+		"item": "minecraft:end_crystal",
+		"count": 2
 	}
 }

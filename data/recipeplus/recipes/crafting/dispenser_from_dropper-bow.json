@@ -10,6 +10,7 @@
 		}
 	],
 	"result": {
-		"item": "minecraft:dispenser"
+		"item": "minecraft:dispenser",
+		"count": 1
 	}
 }

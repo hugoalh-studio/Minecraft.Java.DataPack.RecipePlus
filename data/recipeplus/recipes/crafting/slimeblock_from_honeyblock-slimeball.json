@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "slime_block",
+	"ingredients": [
+		{
+			"item": "minecraft:honey_block"
+		},
+		{
+			"item": "minecraft:slime_ball"
+		}
+	],
+	"result": {
+		"item": "minecraft:slime_block",
+		"count": 1
+	}
+}

@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"minecraft:bat_spawn_egg",
 		"minecraft:bee_spawn_egg",

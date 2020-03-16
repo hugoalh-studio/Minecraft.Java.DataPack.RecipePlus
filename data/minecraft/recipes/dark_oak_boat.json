@@ -14,6 +14,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:dark_oak_boat"
+		"item": "minecraft:dark_oak_boat",
+		"count": 1
 	}
 }

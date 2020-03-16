@@ -14,10 +14,11 @@
 			"item": "minecraft:shulker_shell"
 		},
 		"+": {
-			"item": "minecraft:ink_sac"
+			"item": "minecraft:black_dye"
 		}
 	},
 	"result": {
-		"item": "minecraft:black_shulker_box"
+		"item": "minecraft:black_shulker_box",
+		"count": 1
 	}
 }

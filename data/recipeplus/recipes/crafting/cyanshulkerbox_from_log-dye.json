@@ -18,6 +18,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:cyan_shulker_box"
+		"item": "minecraft:cyan_shulker_box",
+		"count": 1
 	}
 }

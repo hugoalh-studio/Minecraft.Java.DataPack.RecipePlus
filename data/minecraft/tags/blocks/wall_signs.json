@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"minecraft:acacia_wall_sign",
 		"minecraft:birch_wall_sign",

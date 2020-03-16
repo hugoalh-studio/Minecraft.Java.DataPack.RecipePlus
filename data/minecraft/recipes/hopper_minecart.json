@@ -14,6 +14,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:hopper_minecart"
+		"item": "minecraft:hopper_minecart",
+		"count": 1
 	}
 }

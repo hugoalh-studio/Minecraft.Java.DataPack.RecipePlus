@@ -13,6 +13,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:trapped_chest"
+		"item": "minecraft:trapped_chest",
+		"count": 1
 	}
 }

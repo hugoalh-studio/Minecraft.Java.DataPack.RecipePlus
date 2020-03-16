@@ -11,6 +11,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:sandstone"
+		"item": "minecraft:sandstone",
+		"count": 1
 	}
 }

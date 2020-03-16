@@ -18,6 +18,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:orange_shulker_box"
+		"item": "minecraft:orange_shulker_box",
+		"count": 1
 	}
 }

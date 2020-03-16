@@ -12,6 +12,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:prismarine_bricks"
+		"item": "minecraft:prismarine_bricks",
+		"count": 1
 	}
 }

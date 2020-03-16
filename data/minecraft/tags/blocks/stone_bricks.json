@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"minecraft:chiseled_stone_bricks",
 		"minecraft:cracked_stone_bricks",

@@ -21,6 +21,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:writable_book"
+		"item": "minecraft:writable_book",
+		"count": 1
 	}
 }

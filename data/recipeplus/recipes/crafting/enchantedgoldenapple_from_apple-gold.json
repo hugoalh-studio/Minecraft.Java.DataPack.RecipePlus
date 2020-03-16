@@ -15,6 +15,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:enchanted_golden_apple"
+		"item": "minecraft:enchanted_golden_apple",
+		"count": 1
 	}
 }

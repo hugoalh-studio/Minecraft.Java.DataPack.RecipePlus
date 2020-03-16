@@ -23,6 +23,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:totem_of_undying"
+		"item": "minecraft:totem_of_undying",
+		"count": 1
 	}
 }

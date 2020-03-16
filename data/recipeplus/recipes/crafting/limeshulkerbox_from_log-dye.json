@@ -18,6 +18,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:lime_shulker_box"
+		"item": "minecraft:lime_shulker_box",
+		"count": 1
 	}
 }

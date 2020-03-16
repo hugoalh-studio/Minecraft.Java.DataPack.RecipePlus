@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"minecraft:music_disc_11",
 		"minecraft:music_disc_13",

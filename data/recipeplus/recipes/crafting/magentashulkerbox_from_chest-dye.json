@@ -18,6 +18,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:magenta_shulker_box"
+		"item": "minecraft:magenta_shulker_box",
+		"count": 1
 	}
 }

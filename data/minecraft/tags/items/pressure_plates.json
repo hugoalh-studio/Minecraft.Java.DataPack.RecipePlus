@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"#minecraft:wooden_pressure_plates",
 		"minecraft:heavy_weighted_pressure_plate",

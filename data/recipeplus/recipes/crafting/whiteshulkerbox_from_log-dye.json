@@ -14,10 +14,11 @@
 			"item": "minecraft:shulker_shell"
 		},
 		"+": {
-			"item": "minecraft:bone_meal"
+			"item": "minecraft:white_dye"
 		}
 	},
 	"result": {
-		"item": "minecraft:white_shulker_box"
+		"item": "minecraft:white_shulker_box",
+		"count": 1
 	}
 }

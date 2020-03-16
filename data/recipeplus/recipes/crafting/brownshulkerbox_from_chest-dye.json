@@ -14,10 +14,11 @@
 			"item": "minecraft:shulker_shell"
 		},
 		"+": {
-			"item": "minecraft:cocoa_beans"
+			"item": "minecraft:brown_dye"
 		}
 	},
 	"result": {
-		"item": "minecraft:brown_shulker_box"
+		"item": "minecraft:brown_shulker_box",
+		"count": 1
 	}
 }

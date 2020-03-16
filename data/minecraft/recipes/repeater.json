@@ -17,6 +17,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:repeater"
+		"item": "minecraft:repeater",
+		"count": 1
 	}
 }

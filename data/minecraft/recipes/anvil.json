@@ -15,6 +15,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:anvil"
+		"item": "minecraft:anvil",
+		"count": 1
 	}
 }

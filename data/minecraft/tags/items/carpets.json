@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"minecraft:black_carpet",
 		"minecraft:blue_carpet",

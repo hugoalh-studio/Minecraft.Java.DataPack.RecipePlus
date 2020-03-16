@@ -14,6 +14,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:tnt_minecart"
+		"item": "minecraft:tnt_minecart",
+		"count": 1
 	}
 }

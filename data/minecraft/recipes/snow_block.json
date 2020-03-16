@@ -11,6 +11,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:snow_block"
+		"item": "minecraft:snow_block",
+		"count": 1
 	}
 }

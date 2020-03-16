@@ -10,6 +10,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:glowstone"
+		"item": "minecraft:glowstone",
+		"count": 1
 	}
 }

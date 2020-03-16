@@ -1,5 +1,5 @@
 {
-	"replace": false,
+	"replace": true,
 	"values": [
 		"minecraft:carved_pumpkin",
 		"minecraft:jack_o_lantern",

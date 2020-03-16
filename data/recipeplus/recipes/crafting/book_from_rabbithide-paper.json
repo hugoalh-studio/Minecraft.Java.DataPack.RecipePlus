@@ -15,6 +15,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:book"
+		"item": "minecraft:book",
+		"count": 1
 	}
 }
