@@ -96,7 +96,9 @@
 
 ## 📜 Description
 
-Tweak recipe and add new recipe for Minecraft Java. Some recipe can reduce crafting time.
+Tweak recipe and add new recipe for Minecraft Java.
+
+Some recipe can reduce crafting time.
 
 ## 🐛 Issue
 
