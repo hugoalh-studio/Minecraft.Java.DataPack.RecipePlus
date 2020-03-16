@@ -1,7 +1,0 @@
-{
-	"replace": true,
-	"values": [
-		"#minecraft:stained_glass_panes",
-		"minecraft:glass_pane"
-	]
-}

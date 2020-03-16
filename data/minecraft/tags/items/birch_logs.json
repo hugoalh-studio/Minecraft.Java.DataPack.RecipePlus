@@ -1,7 +1,0 @@
-{
-	"replace": true,
-	"values": [
-		"#minecraft:stripped_birch_logs",
-		"#minecraft:unstripped_birch_logs"
-	]
-}

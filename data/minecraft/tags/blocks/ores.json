@@ -1,7 +1,0 @@
-{
-	"replace": true,
-	"values": [
-		"#minecraft:overworld_ores",
-		"#minecraft:the_nether_ores"
-	]
-}

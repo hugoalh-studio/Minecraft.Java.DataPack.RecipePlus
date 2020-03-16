@@ -1,7 +1,0 @@
-{
-	"replace": true,
-	"values": [
-		"#minecraft:stripped_spruce_logs",
-		"#minecraft:unstripped_spruce_logs"
-	]
-}

@@ -1,7 +1,0 @@
-{
-	"replace": true,
-	"values": [
-		"#minecraft:stripped_dark_oak_logs",
-		"#minecraft:unstripped_dark_oak_logs"
-	]
-}

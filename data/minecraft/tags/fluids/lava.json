@@ -1,7 +1,0 @@
-{
-	"replace": true,
-	"values": [
-		"minecraft:flowing_lava",
-		"minecraft:lava"
-	]
-}
