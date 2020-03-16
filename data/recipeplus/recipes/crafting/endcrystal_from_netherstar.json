@@ -4,11 +4,11 @@
 	"pattern": [
 		"GGG",
 		"GNG",
-		"GTG"
+		"GEG"
 	],
 	"key": {
-		"T": {
-			"item": "minecraft:ghast_tear"
+		"E": {
+			"item": "minecraft:ender_eye"
 		},
 		"N": {
 			"item": "minecraft:nether_star"
@@ -19,6 +19,6 @@
 	},
 	"result": {
 		"item": "minecraft:end_crystal",
-		"count": 2
+		"count": 1
 	}
 }

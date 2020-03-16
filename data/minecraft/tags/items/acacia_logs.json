@@ -1,9 +1,7 @@
 {
 	"replace": true,
 	"values": [
-		"minecraft:acacia_log",
-		"minecraft:acacia_wood",
-		"minecraft:stripped_acacia_log",
-		"minecraft:stripped_acacia_wood"
+		"#minecraft:stripped_acacia_logs",
+		"#minecraft:unstripped_acacia_logs"
 	]
 }
