@@ -87,4 +87,4 @@ Some recipe can reduce crafting time.
 
 ## 🐛 Issue
 
-Found any issue in this project? Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.RecipePlus/issues) or [Google Forms](https://forms.gle/Dvs8roeSs4z2v4zb7).
+Found any issue in this project? Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.RecipePlus/issues) or [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSf7THj4zWMeT5vC4Hs3dx9nZLzUy0Tn7bS3unExHTw13g0ZuA/viewform?usp=sf_link).
