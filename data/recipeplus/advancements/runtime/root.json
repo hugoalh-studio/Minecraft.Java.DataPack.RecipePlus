@@ -4,10 +4,10 @@
 			"item": "minecraft:knowledge_book"
 		},
 		"title": {
-			"text": "[Java Data Pack] Recipe+"
+			"text": "[Data Pack] Recipe+ (4.0.0-E1)"
 		},
 		"description": {
-			"text": "Recipe+, 4.0.0-B2"
+			"text": "Tweak recipes, and add new recipes."
 		},
 		"frame": "task",
 		"show_toast": false,
