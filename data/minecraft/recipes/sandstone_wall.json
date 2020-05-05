@@ -1,17 +1,17 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "cobblestone_wall",
+	"group": "sandstone_wall",
 	"pattern": [
 		"###",
 		"###"
 	],
 	"key": {
 		"#": {
-			"item": "minecraft:mossy_cobblestone"
+			"item": "minecraft:sandstone"
 		}
 	},
 	"result": {
-		"item": "minecraft:mossy_cobblestone_wall",
+		"item": "minecraft:sandstone_wall",
 		"count": 6
 	}
 }

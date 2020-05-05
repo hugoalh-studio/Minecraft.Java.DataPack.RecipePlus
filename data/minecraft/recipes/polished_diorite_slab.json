@@ -1,9 +1,7 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "diorite_stairs",
+	"group": "diorite_slab",
 	"pattern": [
-		"#  ",
-		"## ",
 		"###"
 	],
 	"key": {
@@ -12,7 +10,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:polished_diorite_stairs",
-		"count": 8
+		"item": "minecraft:polished_diorite_slab",
+		"count": 6
 	}
 }

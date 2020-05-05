@@ -1,17 +1,17 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "cobblestone_wall",
+	"group": "nether_brick_wall",
 	"pattern": [
 		"###",
 		"###"
 	],
 	"key": {
 		"#": {
-			"item": "minecraft:mossy_cobblestone"
+			"item": "minecraft:red_nether_bricks"
 		}
 	},
 	"result": {
-		"item": "minecraft:mossy_cobblestone_wall",
+		"item": "minecraft:red_nether_brick_wall",
 		"count": 6
 	}
 }

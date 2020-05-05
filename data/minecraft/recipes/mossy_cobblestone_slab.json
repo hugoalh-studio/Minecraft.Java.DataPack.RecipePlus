@@ -1,8 +1,7 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "cobblestone_wall",
+	"group": "cobblestone_slab",
 	"pattern": [
-		"###",
 		"###"
 	],
 	"key": {
@@ -11,7 +10,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:mossy_cobblestone_wall",
+		"item": "minecraft:mossy_cobblestone_slab",
 		"count": 6
 	}
 }

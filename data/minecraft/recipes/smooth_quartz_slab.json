@@ -1,9 +1,7 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "quartz_stairs",
+	"group": "quartz_slab",
 	"pattern": [
-		"#  ",
-		"## ",
 		"###"
 	],
 	"key": {
@@ -12,7 +10,7 @@
 		}
 	},
 	"result": {
-		"item": "minecraft:smooth_quartz_stairs",
-		"count": 8
+		"item": "minecraft:smooth_quartz_slab",
+		"count": 6
 	}
 }
