@@ -1,6 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "polished_diorite_stairs",
+	"group": "diorite_stairs",
 	"pattern": [
 		"# ",
 		"##"

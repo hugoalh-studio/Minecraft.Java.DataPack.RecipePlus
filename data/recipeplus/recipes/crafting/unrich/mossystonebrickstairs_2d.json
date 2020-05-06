@@ -1,6 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "mossy_stone_brick_stairs",
+	"group": "stone_brick_stairs",
 	"pattern": [
 		"# ",
 		"##"
