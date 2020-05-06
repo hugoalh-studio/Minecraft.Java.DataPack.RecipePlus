@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:blasting",
+	"group": "stone_slab",
+	"ingredient": {
+		"item": "minecraft:stone_slab"
+	},
+	"result": "minecraft:smooth_stone_slab",
+	"experience": 0.05,
+	"cookingtime": 50
+}
