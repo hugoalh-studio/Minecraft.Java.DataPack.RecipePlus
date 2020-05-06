@@ -1,11 +1,11 @@
 {
-	"parent": "recipeplus:runtime/reloadrecipe/cutting/give",
+	"parent": "recipeplus:runtime/reloadrecipe/stonecutting/give",
 	"display": {
 		"icon": {
 			"item": "minecraft:stonecutter"
 		},
 		"title": {
-			"text": "Cutting.Recipe.Revoke"
+			"text": "StoneCutting.Recipe.Revoke"
 		},
 		"description": {
 			"text": ""
@@ -28,6 +28,6 @@
 		}
 	},
 	"rewards": {
-		"function": "recipeplus:runtime/cutting_recipe_revoke"
+		"function": "recipeplus:runtime/stonecutting_recipe_revoke"
 	}
 }
