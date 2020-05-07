@@ -1,2 +1,2 @@
-advancement revoke @a only recipeplus:runtime/cutting/recipe/give
-advancement revoke @a only recipeplus:runtime/cutting/recipe/revoke
+advancement revoke @a only recipeplus:runtime/stonecutting/recipe/give
+advancement revoke @a only recipeplus:runtime/stonecutting/recipe/revoke
