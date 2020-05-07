@@ -2,8 +2,7 @@
 	"type": "minecraft:crafting_shaped",
 	"group": "smithing_table",
 	"pattern": [
-		"@@",
-		"#"
+		"@#@"
 	],
 	"key": {
 		"#": {
