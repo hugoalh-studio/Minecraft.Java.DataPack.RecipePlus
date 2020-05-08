@@ -1,0 +1,57 @@
+{
+	"parent": "recipeplus:runtime/root",
+	"display": {
+		"icon": {
+			"item": "minecraft:knowledge_book"
+		},
+		"title": {
+			"text": "recipeplus.runtime.recipe.give"
+		},
+		"description": {
+			"text": ""
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"placeblastfurnace": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:blast_furnace"
+			}
+		},
+		"placecraftingtable": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:crafting_table"
+			}
+		},
+		"placefurnace": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:furnace"
+			}
+		},
+		"placestonecutter": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:stonecutter"
+			}
+		}
+	},
+	"requirement": [
+		[
+			"placeblastfurnace",
+			"placecraftingtable",
+			"placefurnace",
+			"placestonecutter"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			""
+		]
+	}
+}
