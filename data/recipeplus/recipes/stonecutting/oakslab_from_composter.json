@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:composter"
+	},
+	"result": "minecraft:oak_slab",
+	"count": 7
+}

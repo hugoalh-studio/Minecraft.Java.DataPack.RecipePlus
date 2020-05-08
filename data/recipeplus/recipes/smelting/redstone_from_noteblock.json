@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:smelting",
+	"group": "redstone",
+	"ingredient": {
+		"item": "minecraft:note_block"
+	},
+	"result": "minecraft:redstone",
+	"experience": 0.05,
+	"cookingtime": 200
+}
