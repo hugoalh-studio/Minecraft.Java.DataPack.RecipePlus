@@ -6,7 +6,7 @@
 	],
 	"key": {
 		"#": {
-			"tag": "minecraft:crafting_table"
+			"item": "minecraft:crafting_table"
 		},
 		"@": {
 			"item": "minecraft:paper"
