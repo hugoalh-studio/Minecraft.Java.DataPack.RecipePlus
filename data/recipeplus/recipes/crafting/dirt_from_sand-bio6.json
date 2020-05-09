@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "dirt",
+	"ingredients": [
+		{
+			"tag": "minecraft:sand"
+		},
+		{
+			"tag": "minecraft:sand"
+		},
+		{
+			"tag": "minecraft:sand"
+		},
+		{
+			"tag": "recipeplus:bio_tier6"
+		}
+	],
+	"result": {
+		"item": "minecraft:dirt",
+		"count": 3
+	}
+}

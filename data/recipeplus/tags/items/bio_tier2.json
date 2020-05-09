@@ -1,0 +1,14 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:tall_flowers",
+		"#minecraft:leaves",
+		"#minecraft:saplings",
+		"#minecraft:seeds",
+		"minecraft:carved_pumpkin",
+		"minecraft:large_fern",
+		"minecraft:sugar_cane",
+		"minecraft:tall_grass",
+		"minecraft:tall_seagrass"
+	]
+}
