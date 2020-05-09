@@ -34,6 +34,12 @@
 				"block": "minecraft:furnace"
 			}
 		},
+		"placesmoker": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:smoker"
+			}
+		},
 		"placestonecutter": {
 			"trigger": "minecraft:placed_block",
 			"conditions": {
@@ -46,6 +52,7 @@
 			"placeblastfurnace",
 			"placecraftingtable",
 			"placefurnace",
+			"placesmoker",
 			"placestonecutter"
 		]
 	],
@@ -329,10 +336,12 @@
 			"recipeplus:crafting/yellowbed_s8",
 			"recipeplus:crafting/yellowshulkerbox_from_chest-dye",
 			"recipeplus:crafting/yellowshulkerbox_from_log-dye",
+			"recipeplus:smelting/bread",
 			"recipeplus:smelting/diamond_from_jukebox",
 			"recipeplus:smelting/redstone_from_noteblock",
 			"recipeplus:smelting/smoothstoneslab_from_stoneslab",
 			"recipeplus:smelting/stoneslab_from_cobblestoneslab",
+			"recipeplus:smoking/bread",
 			"recipeplus:stonecutting/acaciabutton_from_acaciaplanks",
 			"recipeplus:stonecutting/acaciaplanks_from_acaciaboat",
 			"recipeplus:stonecutting/acaciaplanks_from_acaciafence",
