@@ -1,0 +1,24 @@
+{
+	"replace": true,
+	"values": [
+		"#minecraft:mushrooms",
+		"#minecraft:tulips",
+		"minecraft:allium",
+		"minecraft:azure_bluet",
+		"minecraft:bamboo",
+		"minecraft:blue_orchid",
+		"minecraft:cocoa_beans",
+		"minecraft:cornflower",
+		"minecraft:dandelion",
+		"minecraft:dried_kelp",
+		"minecraft:fern",
+		"minecraft:grass",
+		"minecraft:kelp",
+		"minecraft:lily_of_the_valley",
+		"minecraft:lily_pad",
+		"minecraft:oxeye_daisy",
+		"minecraft:poppy",
+		"minecraft:seagrass",
+		"minecraft:vine"
+	]
+}

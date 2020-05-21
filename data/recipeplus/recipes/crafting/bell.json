@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"SGS",
+		"SKS"
+	],
+	"key": {
+		"P": {
+			"tag": "minecraft:planks"
+		},
+		"K": {
+			"item": "minecraft:stick"
+		},
+		"S": {
+			"item": "minecraft:stone"
+		},
+		"G": {
+			"item": "minecraft:gold_block"
+		}
+	},
+	"result": {
+		"item": "minecraft:bell",
+		"count": 1
+	}
+}

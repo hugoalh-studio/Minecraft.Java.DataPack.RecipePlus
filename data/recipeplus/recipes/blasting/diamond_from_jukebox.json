@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:blasting",
+	"group": "diamond",
+	"ingredient": {
+		"item": "minecraft:jukebox"
+	},
+	"result": "minecraft:diamond",
+	"experience": 0.05,
+	"cookingtime": 75
+}

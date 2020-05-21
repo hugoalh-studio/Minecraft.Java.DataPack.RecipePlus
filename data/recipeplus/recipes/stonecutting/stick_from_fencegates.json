@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"tag": "minecraft:fence_gates"
+	},
+	"result": "minecraft:stick",
+	"count": 12
+}

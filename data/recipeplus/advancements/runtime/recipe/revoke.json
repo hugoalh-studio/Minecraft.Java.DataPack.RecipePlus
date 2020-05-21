@@ -1,0 +1,82 @@
+{
+	"parent": "recipeplus:runtime/reloadrecipe/give",
+	"display": {
+		"icon": {
+			"item": "minecraft:knowledge_book"
+		},
+		"title": {
+			"text": "recipeplus.runtime.recipe.revoke"
+		},
+		"description": {
+			"text": ""
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"obtainblastfurnace": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:blast_furnace"
+					}
+				]
+			}
+		},
+		"obtaincraftingtable": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:crafting_table"
+					}
+				]
+			}
+		},
+		"obtainfurnace": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:furnace"
+					}
+				]
+			}
+		},
+		"obtainsmoker": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:smoker"
+					}
+				]
+			}
+		},
+		"obtainstonecutter": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:stonecutter"
+					}
+				]
+			}
+		}
+	},
+	"requirement": [
+		[
+			"obtainblastfurnace",
+			"obtaincraftingtable",
+			"obtainfurnace",
+			"obtainsmoker",
+			"obtainstonecutter"
+		]
+	],
+	"rewards": {
+		"function": "recipeplus:runtime/recipe/revoke"
+	}
+}

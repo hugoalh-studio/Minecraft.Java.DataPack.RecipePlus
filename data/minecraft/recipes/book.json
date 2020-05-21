@@ -2,9 +2,9 @@
 	"type": "minecraft:crafting_shaped",
 	"group": "book",
 	"pattern": [
-		" P ",
-		"LP ",
-		" P "
+		" P",
+		"LP",
+		" P"
 	],
 	"key": {
 		"L": {

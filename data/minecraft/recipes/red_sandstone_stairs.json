@@ -1,6 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "red_sandstone_stairs",
+	"group": "sandstone_stairs",
 	"pattern": [
 		"#  ",
 		"## ",

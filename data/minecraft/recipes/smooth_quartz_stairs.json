@@ -1,6 +1,6 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"group": "smooth_quartz_stairs",
+	"group": "quartz_stairs",
 	"pattern": [
 		"#  ",
 		"## ",

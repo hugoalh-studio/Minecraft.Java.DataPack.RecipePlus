@@ -1,0 +1,26 @@
+name: "Release Announcement"
+on:
+  release:
+    types:
+    - "published"
+jobs:
+  fetch-data:
+    name: "Fetch Data"
+    runs-on: "ubuntu-latest"
+    outputs:
+      release_data: "${{steps.fetch-data-main.outputs.release_data}}"
+    steps:
+    - id: "fetch-data-main"
+      uses: "hugoalh/GitHubAction.ReleaseFetcher@v0.1.2"
+  send-to-discord:
+    name: "Send To Discord"
+    runs-on: "ubuntu-latest"
+    needs: 
+    - "fetch-data"
+    steps:
+    - id: "send-to-discord-main"
+      uses: "hugoalh/GitHubAction.SendToDiscord@v0.1.2"
+      with:
+        discord_webhook_url: ${{secrets.DISCORD_WEBHOOK_URL}}
+        message_text: "[Minecraft Java Data Pack] Recipe+ %Release.Version% is now available on GitHub (%Release.WebUrl%).\n\n%Note_Split.1%"
+        message_variables_list: ${{needs.fetch-data.outputs.release_data}}

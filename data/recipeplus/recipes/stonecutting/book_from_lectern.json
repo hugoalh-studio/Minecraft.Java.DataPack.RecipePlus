@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:lectern"
+	},
+	"result": "minecraft:book",
+	"count": 3
+}
