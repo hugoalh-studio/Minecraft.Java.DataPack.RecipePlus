@@ -170,3 +170,5 @@ abstract.log*
 
 # WebMethods
 **/IntegrationServer/logs/
+
+compiled/
