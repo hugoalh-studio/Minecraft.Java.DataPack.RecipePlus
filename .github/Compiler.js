@@ -1,6 +1,6 @@
 /*==================
 Minecraft Java Data Pack Compiler
-	Author & Contributor:
+	Contributor:
 		hugoalh
 	Language:
 		NodeJS 12
