@@ -1,6 +1,6 @@
 🌐 | [English](./README.md) / [中文](./README.zh.md)
 
-# <div align="center"><img src="https://i.imgur.com/LRrh4Ms.png" height="64px" /><br />Minecraft Java Data Pack: Recipe+</div>
+# <div align="center"><img src="https://i.imgur.com/LRrh4Ms.png" height="64px" /><br />[Minecraft Java Data Pack] Recipe+</div>
 
 <div align="center">
   <code>hugoalh/Minecraft.Java.DataPack.RecipePlus</code><br />
