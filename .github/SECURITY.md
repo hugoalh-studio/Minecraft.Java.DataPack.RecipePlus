@@ -2,12 +2,34 @@
 
 ## Supported Version
 
-| **Version** | **Minecraft Java Version (Target)** | **Support** |
+> | **Legend** | **Description** |
+> |:---:|:----|
+> | L | **LTS:** This is long term supported. |
+> | ✔ | **Yes:** This is supported. |
+> | 👎 | **Partly:** This is partly supported due to this version(s) is deprecated by a newer version(s). |
+> | ❌ | **No:** This is not supported due to this version(s) is too old. |
+> | ⚠ | **Issue:** This is not supported due to this version(s) is confirmed contains bug(s) and/or issue(s). |
+
+| **Version** | **Targeted Minecraft Java Data Pack Version** | **Support** |
 |:---:|:---:|:---:|
-| 5.0.0 | 1.16 | ✔ |
-| 4.0.1 | 1.15.2 | ✔ |
-| < 4.0.1 |  | ❌ |
+| v5.0.0 | 6 | ✔ |
+| v4.0.1 | 5 | ✔ |
+| < v4.0.1 | *(N/A)* | ❌ |
 
 ## Report Vulnerability
 
-Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.RecipePlus/issues).
+### Contact
+
+Send an email to anyone who listed in here (click the link to obtain the email address).
+
+- [hugoalh](https://github.com/hugoalh)
+
+### Suggested Content List
+
+- Your GitHub account username (e.g.: `@octocat`)
+- Project index (mostly start with `hugoalh/` or `hugoalh-studio/`)
+- Affected version(s) (must be a supported version(s))
+- Affected file(s)
+- Issue(s) to cause this security issue
+- Common Vulnerabilities and Exposures (CVE) identification number(s)
+- Reference of this security issue
